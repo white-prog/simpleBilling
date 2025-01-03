@@ -1,0 +1,6 @@
+Receipt: 
+- lays (5 @ 5rs): 25
+Subtotal: 25rs
+Tax (5%): 1.25rs
+Total : 26.25rs
+Thank you for your purchase!
